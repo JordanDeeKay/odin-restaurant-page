@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.page {
+    height: 900px;
+    background: url('./background-image.jpg');
+    background-repeat: no-repeat;
+    background-size: 1200px;
+    font-size: 24px;
+    color: white;
+}
+
+.quote {
+    width: 500px;
+    height: 500px;
+}
